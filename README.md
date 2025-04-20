@@ -33,4 +33,19 @@ Bu sistem yönetici için şunları içerir: <br/>
 ->Kullanıcıları görüntüle <br/>
 ->Etkinliğe katılacak kullanıcıları görüntüle <br/>
 Ayrıca süresi dolmuş olaylar için otomatik silme modülü de içerir.
- 
+
+
+ ![Ekran görüntüsü 2025-03-08 162837](https://github.com/user-attachments/assets/cedc72ff-6a12-4716-b5ac-f0ad925e8037)
+
+![Ekran görüntüsü 2025-03-08 163114](https://github.com/user-attachments/assets/1778a93e-02e9-4057-a623-dace03a5dd2a)
+
+![Ekran görüntüsü 2025-03-08 162757](https://github.com/user-attachments/assets/1a36638f-e564-4a07-9694-409907ea434f)
+
+![Ekran görüntüsü 2025-03-08 162706](https://github.com/user-attachments/assets/132e1e51-1a22-4736-8732-0b5489ba2a63)
+
+
+
+
+
+
+
